@@ -1,0 +1,248 @@
+{
+  "id": "ganesh-puja",
+  "name": "गणेश पूजा",
+  "nameEn": "Ganesh Puja",
+  "deity": "Ganesha",
+  "occasion": "नित्य",
+  "occasionEn": "Daily",
+  "category": "daily",
+  "estimatedDurationMinutes": 20,
+  "difficulty": "beginner",
+  "significance": "गणेश जी विघ्नहर्ता हैं। पूजा आरम्भ से पहले उनकी पूजा करने से सभी कार्य निर्विघ्न सम्पन्न होते हैं।",
+  "significanceEn": "Lord Ganesha removes obstacles. Worshipping him at the start ensures all endeavours are completed without hindrance.",
+  "samagri": [
+    { "item": "फूल", "itemEn": "Flowers", "essential": true },
+    { "item": "दूर्वा", "itemEn": "Durva grass", "essential": true },
+    { "item": "मोदक", "itemEn": "Modak", "essential": false },
+    { "item": "धूप", "itemEn": "Incense", "essential": true },
+    { "item": "दीप", "itemEn": "Lamp", "essential": true },
+    { "item": "चंदन", "itemEn": "Sandalwood", "essential": false },
+    { "item": "अक्षत", "itemEn": "Akshata", "essential": true },
+    { "item": "नैवेद्य", "itemEn": "Naivedya", "essential": false }
+  ],
+  "sections": [
+    {
+      "id": "sankalp",
+      "title": "संकल्प",
+      "titleEn": "Sankalp",
+      "purpose": "पूजा का संकल्प",
+      "purposeEn": "Declaration of intention",
+      "steps": [
+        {
+          "id": "sankalp-1",
+          "type": "instruction",
+          "instruction": "पूजा स्थल स्वच्छ करें, आसन बिछाएं।",
+          "instructionEn": "Clean the puja area and spread the seat.",
+          "mantra": null,
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "sankalp-2",
+          "type": "mantra",
+          "instruction": "गणेश संकल्प",
+          "instructionEn": "Ganesh sankalp",
+          "mantra": {
+            "lines": ["ॐ विष्णुः। अद्य शुभदिने अहं विघ्ननिवृत्त्यर्थं श्रीगणेशपूजनं करिष्ये।"],
+            "transliteration": ["Om Vishnuh. Adya shubhadine aham vighnanivrittyartham Shri Ganesha-pujanam karishye."],
+            "meaning": "आज शुभ दिन मैं विघ्न निवारण के लिए श्री गणेश का पूजन करूंगा।",
+            "meaningEn": "Today I will perform Ganesh puja for removal of obstacles.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        }
+      ],
+      "translations": null
+    },
+    {
+      "id": "dhyana",
+      "title": "ध्यान",
+      "titleEn": "Meditation",
+      "purpose": "गणेश का ध्यान",
+      "purposeEn": "Meditate on Ganesha",
+      "steps": [
+        {
+          "id": "dhyana-1",
+          "type": "mantra",
+          "instruction": "गणेश ध्यान मंत्र",
+          "instructionEn": "Ganesha dhyana mantra",
+          "mantra": {
+            "lines": ["एकदन्तं शूर्पकर्णं गजवक्त्रं चतुर्भुजम्। पाशाङ्कुशधरं देवं ध्यायेत् सिद्धिविनायकम्॥", "दन्ताक्षमाला-परशु-पूर्णमोदक-हस्तकम्। मोदकासक्त-शुण्डाग्रम् एकदन्तं विनायकम्॥"],
+            "transliteration": ["Ekadantam shurpakarnam gajavaktram chaturbhujam. Pashankushadharam devam dhyayet siddhivinayakam.", "Dantakshamala-parashu-purnamodaka-hastakam. Modakasakta-shundagram ekadantam vinayakam."],
+            "meaning": "एक दाँत, सूप जैसे कान, हाथी मुख, चार भुजाएँ, पाश और अंकुश धारण किए गणेश का ध्यान करें।",
+            "meaningEn": "Meditate on Ganesha with one tusk, elephant face, four arms holding noose and goad, and modak.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "avahan",
+          "type": "mantra",
+          "instruction": "आवाहन",
+          "instructionEn": "Invocation",
+          "mantra": {
+            "lines": ["आवाहयामि विघ्नेश सुरराजार्चितेश्वर। अनाथनाथ सर्वज्ञ पूजार्थं गणनायक॥", "श्रीगणेशाय नमः – आवाहयामि।"],
+            "transliteration": ["Avahayami vighnesha surarajarchiteshvara. Anathanatha sarvajna pujartham gananayaka.", "Shri Ganeshaya Namah – avahayami."],
+            "meaning": "विघ्नेश, देवराज-पूजित ईश्वर को पूजा के लिए आवाहन करता हूँ।",
+            "meaningEn": "I invoke Ganesha, lord of obstacles, worshipped by Indra.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        }
+      ],
+      "translations": null
+    },
+    {
+      "id": "shodashopachar",
+      "title": "षोडशोपचार",
+      "titleEn": "Sixteen Offerings",
+      "purpose": "सोलह उपचार",
+      "purposeEn": "Sixteen offerings",
+      "steps": [
+        {
+          "id": "op-1",
+          "type": "offering_sequence",
+          "instruction": "आसन, पाद्य, अर्घ्य",
+          "instructionEn": "Seat, padya, arghya",
+          "mantra": null,
+          "offerings": [
+            { "name": "आसन", "nameEn": "Seat", "what": "आसनं", "whatEn": "Asana", "shloka": ["विचित्ररत्नरचितं दिव्यास्तरणसंयुतम्। स्वर्णसिंहासनं चारु गृहाण सुरपूजित॥"], "mantra": "श्रीगणेशाय नमः, आसनं समर्पयामि।" },
+            { "name": "पाद्य", "nameEn": "Padya", "what": "पाद्यं", "whatEn": "Water for feet", "shloka": ["सर्वतीर्थसमानीतं पाद्यं गन्धादिसंयुतम्। विघ्नराज गृहाणेनदं भगवन् भक्तवत्सल॥"], "mantra": "श्रीगणेशाय नमः, पाद्यं समर्पयामि।" },
+            { "name": "अर्घ्य", "nameEn": "Arghya", "what": "अर्घ्यं", "whatEn": "Arghya", "shloka": ["अर्घ्यं च फलसंयुक्तं गन्धपुष्पाक्षतैर्युतम्। गणाध्यक्ष नमस्तेऽस्तु गृहाण करुणानिधे॥"], "mantra": "श्रीगणेशाय नमः, अर्घ्यं समर्पयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-2",
+          "type": "offering_sequence",
+          "instruction": "आचमनीय, मधुपर्क, स्नान",
+          "instructionEn": "Achamaniya, Madhuparka, Snana",
+          "mantra": null,
+          "offerings": [
+            { "name": "आचमनीय", "nameEn": "Achamaniya", "what": "आचमनीयं", "whatEn": "Water for sipping", "shloka": ["विनायक नमस्तुभ्यं त्रिदशैरभिवन्दित। गङ्गाहृतेन तोयेन शीघ्रमाचमनं कुरु॥"], "mantra": "श्रीगणेशाय नमः, आचमनीयं समर्पयामि।" },
+            { "name": "मधुपर्क", "nameEn": "Madhuparka", "what": "मधुपर्कं", "whatEn": "Madhuparka", "shloka": ["दध्याज्यमधुसंयुक्तं मधुपर्कं मयाऽऽहृतम्। गृहाण सर्वलोकेश गणनाथ नमोऽस्तु ते॥"], "mantra": "श्रीगणेशाय नमः, मधुपर्कं समर्पयामि।" },
+            { "name": "स्नान", "nameEn": "Snana", "what": "स्नानं", "whatEn": "Bath", "shloka": ["पयो दधि घृतं चैव शर्करामधुसंयुतम्। पञ्चामृतं गृहाणेदं स्नानाय गणनायक॥"], "mantra": "श्रीगणेशाय नमः, पञ्चामृतस्नानं समर्पयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-3",
+          "type": "offering_sequence",
+          "instruction": "वस्त्र, गन्ध, अक्षत, पुष्प",
+          "instructionEn": "Cloth, Gandha, Akshata, Flowers",
+          "mantra": null,
+          "offerings": [
+            { "name": "वस्त्र", "nameEn": "Vastra", "what": "वस्त्रं", "whatEn": "Cloth", "shloka": ["रक्तवस्त्रयुगं देव दिव्यं काञ्चनसम्भवम्। सर्वप्रद गृहाणेदं लम्बोदर हरात्मज॥"], "mantra": "श्रीगणेशाय नमः, वस्त्रं समर्पयामि।" },
+            { "name": "गन्ध", "nameEn": "Gandha", "what": "गन्धान्", "whatEn": "Sandalwood", "shloka": ["कस्तूरीरोचनाचन्द्रकुङ्कुमैश्च समन्वितम्। विलेपनं सुरश्रेष्ठ चन्दनं प्रतिगृह्यताम्॥"], "mantra": "श्रीगणेशाय नमः, गन्धान् धारयामि।" },
+            { "name": "अक्षत", "nameEn": "Akshata", "what": "अक्षतान्", "whatEn": "Akshata", "shloka": ["रक्ताक्षतांश्च देवेश गृहाण द्विरदानन। ललाटपटले चन्द्रस्तस्योपरि विधार्यताम्॥"], "mantra": "श्रीगणेशाय नमः, अक्षतान् समर्पयामि।" },
+            { "name": "पुष्प", "nameEn": "Pushpa", "what": "पुष्पाणि", "whatEn": "Flowers", "shloka": ["माल्यादीनि सुगन्धीनि मालत्यादीनि मे प्रभो। मयाऽऽहृतानि पुष्पाणि पूजार्थं प्रतिगृह्यताम्॥"], "mantra": "श्रीगणेशाय नमः, पुष्पाणि समर्पयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-4",
+          "type": "mantra",
+          "instruction": "गणेश मंत्र (ॐ गं गणपतये नमः)",
+          "instructionEn": "Ganesha mantra",
+          "mantra": {
+            "lines": ["ॐ गं गणपतये नमः।", "ॐ गणेशाय नमः।"],
+            "transliteration": ["Om Gan Ganapataye Namah.", "Om Ganeshaya Namah."],
+            "meaning": "गणेश जी को नमस्कार।",
+            "meaningEn": "Salutations to Ganesha.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-5",
+          "type": "offering_sequence",
+          "instruction": "धूप, दीप, नैवेद्य, नीराजन",
+          "instructionEn": "Dhupa, Deepa, Naivedya, Aarti",
+          "mantra": null,
+          "offerings": [
+            { "name": "धूप", "nameEn": "Dhupa", "what": "धूपम्", "whatEn": "Incense", "shloka": ["दशाङ्गं गुग्गुलुं धूपं सुगन्धं च मनोहरम्। गृहाण सर्वदेवेश उमापुत्र नमोऽस्तु ते॥"], "mantra": "श्रीगणेशाय नमः, धूपमाघ्रापयामि।" },
+            { "name": "दीप", "nameEn": "Deepa", "what": "दीपं", "whatEn": "Lamp", "shloka": ["सर्वज्ञ सर्वलोकेश त्रैलोक्यतिमिरापह। गृहाण मङ्गलं दीपं रुद्रप्रिय नमोऽस्तु ते॥"], "mantra": "श्रीगणेशाय नमः, दीपं दर्शयामि।" },
+            { "name": "नैवेद्य", "nameEn": "Naivedya", "what": "नैवेद्यं", "whatEn": "Food offering", "shloka": ["एकविंशतिसङ्ख्याकान् मोदकान् घृतपाचितान्। नैवेद्यं सफलं दद्यान्नमस्ते विघ्ननाशिने॥"], "mantra": "श्रीगणेशाय नमः, नैवेद्यं निवेदयामि।" },
+            { "name": "नीराजन", "nameEn": "Nirajana", "what": "कर्पूर-नीराजनं", "whatEn": "Camphor aarti", "shloka": ["चन्द्रादित्यौ च धरणी विद्युदग्निस्तथैव च। त्वमेव सर्वतेजांसि आर्तिक्यं प्रतिगृह्यताम्॥"], "mantra": "श्रीगणेशाय नमः, कर्पूरनीराजनं दर्शयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-6",
+          "type": "mantra",
+          "instruction": "प्रदक्षिणा एवं नमस्कार",
+          "instructionEn": "Pradakshina and Namaskar",
+          "mantra": {
+            "lines": ["विघ्नेश्वर विशालाक्ष सर्वाभीष्टफलप्रद। प्रदक्षिणं करोमि त्वां सर्वान्कामान् प्रयच्छ मे॥", "नमस्ते विघ्नसंहत्रे नमस्ते ईप्सितप्रद। नमस्ते देवदेवेश नमस्ते गणनायक॥", "श्रीगणेशाय नमः, नमस्कारान् समर्पयामि।"],
+            "transliteration": ["Vighneshvara vishalaksha sarvabhishtaphalaprada. Pradakshinam karomi twam sarvankaman prayachchha me.", "Namaste vighnasamhatre namaste ipsitaprada. Namaste devadevesha namaste gananayaka.", "Shri Ganeshaya Namah, namaskaran samarpayami."],
+            "meaning": "विघ्नेश्वर को प्रदक्षिणा और नमस्कार।",
+            "meaningEn": "Circumambulation and obeisance to Ganesha.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        }
+      ],
+      "translations": null
+    },
+    {
+      "id": "visarjan",
+      "title": "विसर्जन",
+      "titleEn": "Farewell",
+      "purpose": "विसर्जन",
+      "purposeEn": "Farewell",
+      "steps": [
+        {
+          "id": "visarjan-1",
+          "type": "mantra",
+          "instruction": "अपराध क्षमापन एवं विसर्जन",
+          "instructionEn": "Apology and farewell",
+          "mantra": {
+            "lines": ["यस्य स्मृत्या च नामोक्त्या तपः पूजाक्रियादिषु। न्यूनं सम्पूर्णतां याति सद्यो वन्दे गजाननम्॥", "विनायक गणेशान सर्वदेवनमस्कृत। पार्वतीप्रिय विघ्नेश मम विघ्नान्निवारय॥", "ॐ तत्सद्ब्रह्मार्पणमस्तु।"],
+            "transliteration": ["Yasya smritya cha namoktya tapah puja-kriyadishu. Nyunam sampurnatam yati sadyo vande gajananam.", "Vinayaka Ganeshana sarvadevanamaskrita. Parvatipriya vighnesha mama vighnannivaraya.", "Om tatsad brahmarpanamastu."],
+            "meaning": "जिनकी स्मृति से पूजा पूर्ण हो जाती है, उन गजानन को वन्दन। विघ्न निवारण की प्रार्थना।",
+            "meaningEn": "Salutations to Ganesha whose remembrance completes worship. May obstacles be removed.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        }
+      ],
+      "translations": null
+    }
+  ],
+  "metadata": {
+    "source": "Based on stotrasamhita/puja-vidhanam (Siddhivinayaka Puja). Sadhana app.",
+    "version": "1.0",
+    "lastUpdated": "2025-02-09",
+    "includesVedicMantras": false,
+    "noteOnVedicMantras": null
+  },
+  "translations": null
+}

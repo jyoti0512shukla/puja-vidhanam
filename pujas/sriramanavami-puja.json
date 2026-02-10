@@ -1,0 +1,449 @@
+{
+  "id": "sriramanavami-puja",
+  "name": "श्री राम नवमी पूजा",
+  "nameEn": "Sri Ramanavami Puja",
+  "deity": "Rama",
+  "occasion": "राम नवमी",
+  "occasionEn": "Ram Navami",
+  "category": "annual",
+  "estimatedDurationMinutes": 45,
+  "difficulty": "intermediate",
+  "significance": "राम नवमी के दिन भगवान राम का जन्मोत्सव मनाया जाता है। इस पूजा से आशीर्वाद और मंगल की प्राप्ति होती है।",
+  "significanceEn": "Ram Navami celebrates the birth of Lord Rama. This puja brings blessings and prosperity.",
+  "samagri": [
+    { "item": "फूल", "itemEn": "Flowers", "essential": true },
+    { "item": "फल", "itemEn": "Fruits", "essential": true },
+    { "item": "धूप", "itemEn": "Incense", "essential": true },
+    { "item": "दीप", "itemEn": "Lamp", "essential": true },
+    { "item": "चंदन", "itemEn": "Sandalwood", "essential": false },
+    { "item": "तुलसी", "itemEn": "Tulsi", "essential": false },
+    { "item": "अक्षत", "itemEn": "Akshata (rice)", "essential": true },
+    { "item": "जल", "itemEn": "Water", "essential": true },
+    { "item": "नैवेद्य", "itemEn": "Naivedya (food offering)", "essential": false },
+    { "item": "कपूर", "itemEn": "Camphor", "essential": false }
+  ],
+  "sections": [
+    {
+      "id": "sankalp",
+      "title": "संकल्प",
+      "titleEn": "Sankalp",
+      "purpose": "मनोकामना का संकल्प",
+      "purposeEn": "Declaration of intention",
+      "steps": [
+        {
+          "id": "sankalp-1",
+          "type": "instruction",
+          "instruction": "पूजा स्थल को स्वच्छ करें और आसन बिछाएं।",
+          "instructionEn": "Clean the puja area and spread the seat.",
+          "mantra": null,
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "sankalp-2",
+          "type": "mantra",
+          "instruction": "संकल्प मंत्र बोलें",
+          "instructionEn": "Chant the sankalp mantra",
+          "mantra": {
+            "lines": ["ॐ विष्णुः विष्णुः विष्णुः। अद्य श्री रामनवम्यां शुभदिने अहं श्री रामचन्द्रप्रीत्यर्थं पूजनं करिष्ये।"],
+            "transliteration": ["Om Vishnuh Vishnuh Vishnuh. Adya Sri Ramanavamyam shubhadine aham Sri Ramachandra-preetyartham pujanam karishye."],
+            "meaning": "आज राम नवमी के शुभ दिन मैं श्री रामचन्द्र की प्रसन्नता के लिए पूजन करूंगा।",
+            "meaningEn": "Today on Ram Navami I will perform puja for the pleasure of Sri Ramachandra.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        }
+      ],
+      "translations": null
+    },
+    {
+      "id": "ganesh-puja",
+      "title": "गणेश पूजा",
+      "titleEn": "Ganesh Puja",
+      "purpose": "विघ्न निवारण",
+      "purposeEn": "Removal of obstacles",
+      "steps": [
+        {
+          "id": "ganesh-1",
+          "type": "mantra",
+          "instruction": "गणेश ध्यान मंत्र",
+          "instructionEn": "Ganesh dhyana mantra",
+          "mantra": {
+            "lines": ["शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम्। प्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये॥"],
+            "transliteration": ["Shuklambharadharam Vishnum shashivarnam chaturbhujam. Prasannavadanam dhyayet sarvavighnopashantaye."],
+            "meaning": "सर्वविघ्नों की शान्ति के लिए श्वेत वस्त्रधारी, चतुर्भुज विष्णु का ध्यान करें।",
+            "meaningEn": "Meditate on Vishnu in white, moon-hued, four-armed form for removal of obstacles.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "ganesh-2",
+          "type": "mantra",
+          "instruction": "गणेश आवाहन",
+          "instructionEn": "Invoke Ganesha",
+          "mantra": {
+            "lines": ["ॐ गं गणपतये नमः। श्रीविघ्नेश्वराय नमः यथास्थानं प्रतिष्ठापयामि।"],
+            "transliteration": ["Om Gan Ganapataye Namah. Shri Vighneshwaraya Namah yathasthanam pratishthapayami."],
+            "meaning": "गणेश जी को नमस्कार; विघ्नेश्वर को स्थापित करता हूँ।",
+            "meaningEn": "Salutations to Ganesha; I establish Vighneshwara in place.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        }
+      ],
+      "translations": null
+    },
+    {
+      "id": "preparatory",
+      "title": "पूर्वाङ्ग",
+      "titleEn": "Preparatory",
+      "purpose": "आसन, घण्टा, कलश",
+      "purposeEn": "Seat, bell, kalasha",
+      "steps": [
+        {
+          "id": "prep-1",
+          "type": "instruction",
+          "instruction": "आसन पर बैठकर घण्टा बजाएं और मन को एकाग्र करें।",
+          "instructionEn": "Sit on the seat, ring the bell, and focus the mind.",
+          "mantra": null,
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "prep-2",
+          "type": "mantra",
+          "instruction": "राम ध्यान",
+          "instructionEn": "Meditate on Rama",
+          "mantra": {
+            "lines": ["वैदेही-सहितं सुर-द्रुम-तले हैमे महामण्डपे। मध्ये पुष्पकमासने मणिमये वीरासने सुस्थितम्॥", "श्री-सीता-लक्ष्मण-भरत-शत्रुघ्न-हनुमत्-समेत-श्री-रामचन्द्रं ध्यायामि।"],
+            "transliteration": ["Vaidehi-sahitam sura-druma-tale haime mahamandape. Madhye pushpakamasane manimaye virasane susthitam.", "Shri Sita-Lakshmana-Bharata-Shatrughna-Hanumat-sameta-Shri Ramachandram dhyayami."],
+            "meaning": "सीता जी के साथ स्वर्ण मण्डप में पुष्पक आसन पर विराजमान श्री राम का ध्यान करें।",
+            "meaningEn": "Meditate on Sri Rama with Sita, Lakshmana, Bharata, Shatrughna and Hanuman, seated on the gem seat.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        }
+      ],
+      "translations": null
+    },
+    {
+      "id": "avahan",
+      "title": "आवाहन",
+      "titleEn": "Invocation",
+      "purpose": "देवता को आमन्त्रित करना",
+      "purposeEn": "Inviting the deity",
+      "steps": [
+        {
+          "id": "avahan-1",
+          "type": "mantra",
+          "instruction": "श्री राम का आवाहन",
+          "instructionEn": "Invoke Sri Rama",
+          "mantra": {
+            "lines": ["आवाहयामि विश्वेशं वैदेही-वल्लभं विभुम्। कौसल्या-तनयं विष्णुं श्री-रामं प्रकृतेः परम्॥", "श्रीरामाय नमः – आवाहयामि।"],
+            "transliteration": ["Avahayami vishvesham Vaidehi-vallabham vibhum. Kausalyā-tanayam Vishnum Shri-Ramam prakriteh param.", "Shri Ramaya Namah – avahayami."],
+            "meaning": "विश्व के ईश, सीता के वल्लभ, कौसल्या नन्दन विष्णु रूप श्री राम को आवाहन करता हूँ।",
+            "meaningEn": "I invoke the Lord of the world, beloved of Sita, Vishnu as son of Kaushalya, Sri Rama.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        }
+      ],
+      "translations": null
+    },
+    {
+      "id": "shodashopachar",
+      "title": "षोडशोपचार पूजा",
+      "titleEn": "Sixteen Offerings",
+      "purpose": "सोलह उपचारों से पूजन",
+      "purposeEn": "Worship with sixteen offerings",
+      "steps": [
+        {
+          "id": "op-1",
+          "type": "offering_sequence",
+          "instruction": "आसन अर्पण",
+          "instructionEn": "Offer seat",
+          "mantra": null,
+          "offerings": [
+            { "name": "आसन", "nameEn": "Seat", "what": "आसनं", "whatEn": "Asana", "shloka": ["रत्न-सिंहासनारूढ सर्व-भूपाल-वन्दित। आसनं ते मया दत्तं प्रीतिं जनयतु प्रभो॥"], "mantra": "श्रीरामाय नमः, आसनं समर्पयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-2",
+          "type": "offering_sequence",
+          "instruction": "पाद्य अर्पण",
+          "instructionEn": "Offer water for feet",
+          "mantra": null,
+          "offerings": [
+            { "name": "पाद्य", "nameEn": "Water for feet", "what": "पाद्यं", "whatEn": "Padya", "shloka": ["पादाङ्गुष्ठ-समुद्भूत-गङ्गा-पावित-विष्टप। पाद्यार्थमुदकं राम ददामि परिगृह्यताम्॥"], "mantra": "श्रीरामाय नमः, पाद्यं समर्पयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-3",
+          "type": "offering_sequence",
+          "instruction": "अर्घ्य अर्पण",
+          "instructionEn": "Offer arghya",
+          "mantra": null,
+          "offerings": [
+            { "name": "अर्घ्य", "nameEn": "Arghya", "what": "अर्घ्यं", "whatEn": "Arghya", "shloka": ["वालखिल्यादिभिर्विप्रैस्त्रिसन्ध्यं प्रयतात्मभिः। अर्घ्यैराराधित विभो ममार्घ्यं राम गृह्यताम्॥"], "mantra": "श्रीरामाय नमः, अर्घ्यं समर्पयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-4",
+          "type": "offering_sequence",
+          "instruction": "आचमनीय अर्पण",
+          "instructionEn": "Offer water for sipping",
+          "mantra": null,
+          "offerings": [
+            { "name": "आचमनीय", "nameEn": "Achamaniya", "what": "आचमनीयं", "whatEn": "Water for sipping", "shloka": ["आचान्ताम्भोधिना राम मुनिना परिसेवित। मया दत्तेन तोयेन कुर्वाचमनमीश्वर॥"], "mantra": "श्रीरामाय नमः, आचमनीयं समर्पयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-5",
+          "type": "offering_sequence",
+          "instruction": "स्नान (जल अभिषेक)",
+          "instructionEn": "Offer bath (abhisheka)",
+          "mantra": null,
+          "offerings": [
+            { "name": "स्नान", "nameEn": "Snana", "what": "स्नानं", "whatEn": "Bath", "shloka": ["नदी-नद-समुद्रादि-तोयैर्मन्त्राभिसंस्कृतैः। पट्टाभिषिक्त राजेन्द्र स्नाहि शुद्ध-जलेन मे॥"], "mantra": "श्रीरामाय नमः, शुद्धोदक-स्नानं समर्पयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-6",
+          "type": "offering_sequence",
+          "instruction": "वस्त्र अर्पण",
+          "instructionEn": "Offer cloth",
+          "mantra": null,
+          "offerings": [
+            { "name": "वस्त्र", "nameEn": "Vastra", "what": "वस्त्रं", "whatEn": "Cloth", "shloka": ["हित्वा पीताम्बरं चीर-कृष्णाजिन-धराच्युत। परिधत्स्वाद्य मे वस्त्रं स्वर्ण-सूत्र-विनिर्मितम्॥"], "mantra": "श्रीरामाय नमः, वस्त्रं समर्पयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-7",
+          "type": "offering_sequence",
+          "instruction": "गन्ध अर्पण",
+          "instructionEn": "Offer sandalwood paste",
+          "mantra": null,
+          "offerings": [
+            { "name": "गन्ध", "nameEn": "Gandha", "what": "गन्धान्", "whatEn": "Sandalwood", "shloka": ["सन्ध्या-समान-रुचिना नीलाभ्र-सम-विग्रह। लिम्पामि तेऽङ्गकं राम चन्दनेन मुदा हृदि॥"], "mantra": "श्रीरामाय नमः, गन्धान् धारयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-8",
+          "type": "offering_sequence",
+          "instruction": "अक्षत अर्पण",
+          "instructionEn": "Offer akshata",
+          "mantra": null,
+          "offerings": [
+            { "name": "अक्षत", "nameEn": "Akshata", "what": "अक्षतान्", "whatEn": "Akshata", "shloka": ["अक्षतान् कुङ्कुमोन्मिश्रान् अक्षय्य-फल-दायक। अर्पये तव पादाब्जे शालि-तण्डुल-सम्भवान्॥"], "mantra": "श्रीरामाय नमः, अक्षतान् समर्पयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-9",
+          "type": "offering_sequence",
+          "instruction": "पुष्प अर्पण",
+          "instructionEn": "Offer flowers",
+          "mantra": null,
+          "offerings": [
+            { "name": "पुष्प", "nameEn": "Pushpa", "what": "पुष्पाणि", "whatEn": "Flowers", "shloka": ["चम्पकाशोक-पुन्नागैर्जलजैस्तुलसी-दलैः। पूजयामि रघूत्तंस पूज्यं त्वां सनकादिभिः॥"], "mantra": "श्रीरामाय नमः, पुष्पाणि समर्पयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-10",
+          "type": "offering_sequence",
+          "instruction": "धूप दिखाएं",
+          "instructionEn": "Offer incense",
+          "mantra": null,
+          "offerings": [
+            { "name": "धूप", "nameEn": "Dhupa", "what": "धूपम्", "whatEn": "Incense", "shloka": ["वनस्पति-रसोद्भूतो गन्धाढ्यो धूप उत्तमः। रामचन्द्र महीपाल धूपोऽयं प्रतिगृह्यताम्॥"], "mantra": "श्रीरामाय नमः, धूपम् आघ्रापयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-11",
+          "type": "offering_sequence",
+          "instruction": "दीप दर्शन",
+          "instructionEn": "Show lamp",
+          "mantra": null,
+          "offerings": [
+            { "name": "दीप", "nameEn": "Deepa", "what": "दीपं", "whatEn": "Lamp", "shloka": ["ज्योतिषां पतये तुभ्यं नमो रामाय वेधसे। गृहाण मङ्गलं दीपं त्रैलोक्य-तिमिरापहम्॥"], "mantra": "श्रीरामाय नमः, अलङ्कारदीपं सन्दर्शयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-12",
+          "type": "offering_sequence",
+          "instruction": "नैवेद्य अर्पण",
+          "instructionEn": "Offer naivedya (food)",
+          "mantra": null,
+          "offerings": [
+            { "name": "नैवेद्य", "nameEn": "Naivedya", "what": "नैवेद्यं", "whatEn": "Food offering", "shloka": ["इदं दिव्यान्नम् अमृतं रसैः षड्भिः समन्वितम्। रामचन्द्रेश नैवेद्यं सीतेश प्रतिगृह्यताम्॥"], "mantra": "श्रीरामाय नमः, नैवेद्यं निवेदयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-13",
+          "type": "offering_sequence",
+          "instruction": "कर्पूर नीराजन (आरती)",
+          "instructionEn": "Camphor aarti",
+          "mantra": null,
+          "offerings": [
+            { "name": "नीराजन", "nameEn": "Nirajana", "what": "कर्पूर-नीराजनं", "whatEn": "Camphor aarti", "shloka": ["मङ्गलार्थं महीपाल नीराजनमिदं हरे। सङ्गृहाण जगन्नाथ रामचन्द्र नमोऽस्तु ते॥"], "mantra": "श्रीरामाय नमः, कर्पूर-नीराजनं दर्शयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-14",
+          "type": "mantra",
+          "instruction": "पुष्पाञ्जलि एवं प्रदक्षिणा",
+          "instructionEn": "Flower offering and circumambulation",
+          "mantra": {
+            "lines": ["चराचरं व्याप्नुवन्तम् अपि त्वां रघु-नन्दन। प्रदक्षिणं करोम्यद्य मदग्रे मूर्ति-संयुतम्॥", "श्रीरामाय नमः, प्रदक्षिणं करोमि।"],
+            "transliteration": ["Characharam vyapnuvantam api twam Raghunandana. Pradakshinam karomyadya madagre murti-samyutam.", "Shri Ramaya Namah, pradakshinam karomi."],
+            "meaning": "हे रघुनन्दन, आपको प्रदक्षिणा करता हूँ।",
+            "meaningEn": "I perform pradakshina to you, O Raghunandana.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-15",
+          "type": "mantra",
+          "instruction": "नमस्कार अर्पण",
+          "instructionEn": "Offer obeisance",
+          "mantra": {
+            "lines": ["साङ्गोपाङ्गाय साराय जगतां सनकादिभिः। वन्दिताय वरेण्याय राघवाय नमो नमः॥", "श्रीरामाय नमः, नमस्कारान् समर्पयामि।"],
+            "transliteration": ["Sangopangaya saraya jagatam sanakadibhih. Vanditaya varenyaya Raghavaya namo namah.", "Shri Ramaya Namah, namaskaran samarpayami."],
+            "meaning": "सनकादि द्वारा वन्दित राघव को नमस्कार।",
+            "meaningEn": "Salutations to Raghava, worshipped by Sanaka and others.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        }
+      ],
+      "translations": null
+    },
+    {
+      "id": "prarthana",
+      "title": "प्रार्थना",
+      "titleEn": "Prayer",
+      "purpose": "स्तुति एवं प्रार्थना",
+      "purposeEn": "Praise and prayer",
+      "steps": [
+        {
+          "id": "prar-1",
+          "type": "mantra",
+          "instruction": "प्रार्थना मंत्र",
+          "instructionEn": "Prayer mantra",
+          "mantra": {
+            "lines": ["विधितोऽविधितो वाऽपि या पूजा क्रियते मया। तां त्वं सन्तुष्टहृदयो यथावद् विहितामिव॥", "स्वीकृत्य परमेशान मात्रा मे सह सीतया। लक्ष्मणादिभिरप्यत्र प्रसादं कुरु मे सदा॥"],
+            "transliteration": ["Vidhito'vidhito vapi ya puja kriyate maya. Tam twam santushtahridayo yathavad vihitamiva.", "Svikritya parameshana matra me saha Sitaya. Lakshmanadibhirapyatra prasadam kuru me sada."],
+            "meaning": "जो पूजा मैंने विधि अनुसार या अन्यथा की है, उसे स्वीकार करके प्रसन्न होइए। सीता और लक्ष्मण आदि के साथ मुझ पर कृपा करें।",
+            "meaningEn": "Whatever puja I have performed, please accept it with a pleased heart. Bestow grace on me with Sita and Lakshmana.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        }
+      ],
+      "translations": null
+    },
+    {
+      "id": "visarjan",
+      "title": "विसर्जन",
+      "titleEn": "Farewell",
+      "purpose": "देवता का विसर्जन",
+      "purposeEn": "Bidding farewell to the deity",
+      "steps": [
+        {
+          "id": "visarjan-1",
+          "type": "mantra",
+          "instruction": "विसर्जन मंत्र",
+          "instructionEn": "Visarjan mantra",
+          "mantra": {
+            "lines": ["यस्य स्मृत्या च नामोक्त्या तपः-पूजा-क्रियादिषु। न्यूनं सम्पूर्णतां याति सद्यो वन्दे तमच्युतम्॥", "अस्मात् बिम्बात् श्री-सीता-लक्ष्मण-भरत-शत्रुघ्न-हनुमत्-समेत-श्री-रामचन्द्रं यथास्थानं प्रतिष्ठापयामि।", "ॐ तत्सद्ब्रह्मार्पणमस्तु।"],
+            "transliteration": ["Yasya smritya cha namoktya tapah-puja-kriyadishu. Nyunam sampurnatam yati sadyo vande tamachyutam.", "Asmat bimbat Shri-Sita-Lakshmana-Bharata-Shatrughna-Hanumat-sameta-Shri-Ramachandram yathasthanam pratishthapayami.", "Om tatsad brahmarpanamastu."],
+            "meaning": "जिनकी स्मृति और नाम से पूजा पूर्ण हो जाती है, उन अच्युत को वन्दन। देवता को यथास्थान स्थापित करता हूँ। सब ब्रह्मार्पण।",
+            "meaningEn": "I salute the one whose remembrance makes worship complete. I establish the deity in place. All offered to Brahman.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        }
+      ],
+      "translations": null
+    }
+  ],
+  "metadata": {
+    "source": "Based on stotrasamhita/puja-vidhanam (Sri Ramanavami Puja). Sadhana app.",
+    "version": "1.1",
+    "lastUpdated": "2025-02-09",
+    "includesVedicMantras": false,
+    "noteOnVedicMantras": null
+  },
+  "translations": null
+}

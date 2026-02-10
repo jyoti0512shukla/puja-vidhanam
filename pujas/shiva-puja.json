@@ -1,0 +1,262 @@
+{
+  "id": "shiva-puja",
+  "name": "शिव पूजा",
+  "nameEn": "Shiva Puja",
+  "deity": "Shiva",
+  "occasion": "नित्य",
+  "occasionEn": "Daily",
+  "category": "daily",
+  "estimatedDurationMinutes": 25,
+  "difficulty": "beginner",
+  "significance": "भगवान शिव सर्वव्यापी और कल्याणकारी हैं। नित्य शिव पूजा से मन शान्त रहता है और विघ्न दूर होते हैं।",
+  "significanceEn": "Lord Shiva is omnipresent and benevolent. Daily Shiva puja brings peace of mind and removes obstacles.",
+  "samagri": [
+    { "item": "फूल", "itemEn": "Flowers", "essential": true },
+    { "item": "बिल्व पत्र", "itemEn": "Bilva leaves", "essential": true },
+    { "item": "धूप", "itemEn": "Incense", "essential": true },
+    { "item": "दीप", "itemEn": "Lamp", "essential": true },
+    { "item": "चंदन", "itemEn": "Sandalwood", "essential": false },
+    { "item": "अक्षत", "itemEn": "Akshata", "essential": true },
+    { "item": "जल", "itemEn": "Water", "essential": true },
+    { "item": "दूध", "itemEn": "Milk", "essential": false },
+    { "item": "नैवेद्य", "itemEn": "Naivedya", "essential": false }
+  ],
+  "sections": [
+    {
+      "id": "sankalp",
+      "title": "संकल्प",
+      "titleEn": "Sankalp",
+      "purpose": "पूजा का संकल्प",
+      "purposeEn": "Declaration of intention",
+      "steps": [
+        {
+          "id": "sankalp-1",
+          "type": "instruction",
+          "instruction": "पूजा स्थल स्वच्छ करें। शिवलिंग या प्रतिमा स्थापित करें।",
+          "instructionEn": "Clean the puja area. Place the Shiva linga or image.",
+          "mantra": null,
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "sankalp-2",
+          "type": "mantra",
+          "instruction": "शिव पूजा संकल्प",
+          "instructionEn": "Shiva puja sankalp",
+          "mantra": {
+            "lines": ["ॐ विष्णुः। अद्य शुभदिने अहं श्रीपरमेश्वरप्रीत्यर्थं शिवपूजनं करिष्ये।"],
+            "transliteration": ["Om Vishnuh. Adya shubhadine aham Shri Parameshvara-preetyartham Shiva-pujanam karishye."],
+            "meaning": "आज शुभ दिन मैं परमेश्वर की प्रसन्नता के लिए शिव पूजन करूंगा।",
+            "meaningEn": "Today I will perform Shiva puja for the pleasure of the Supreme Lord.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        }
+      ],
+      "translations": null
+    },
+    {
+      "id": "ganesh-puja",
+      "title": "गणेश पूजा",
+      "titleEn": "Ganesh Puja",
+      "purpose": "विघ्न निवारण",
+      "purposeEn": "Removal of obstacles",
+      "steps": [
+        {
+          "id": "ganesh-1",
+          "type": "mantra",
+          "instruction": "गणेश आवाहन",
+          "instructionEn": "Invoke Ganesha",
+          "mantra": {
+            "lines": ["श्रीविघ्नेश्वराय नमः यथास्थानं प्रतिष्ठापयामि।", "ॐ गं गणपतये नमः।"],
+            "transliteration": ["Shri Vighneshwaraya Namah yathasthanam pratishthapayami.", "Om Gan Ganapataye Namah."],
+            "meaning": "विघ्नेश्वर को स्थापित करता हूँ। गणेश को नमस्कार।",
+            "meaningEn": "I establish Vighneshwara. Salutations to Ganesha.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        }
+      ],
+      "translations": null
+    },
+    {
+      "id": "dhyana",
+      "title": "शिव ध्यान",
+      "titleEn": "Shiva Meditation",
+      "purpose": "महेश का ध्यान",
+      "purposeEn": "Meditate on Shiva",
+      "steps": [
+        {
+          "id": "dhyana-1",
+          "type": "mantra",
+          "instruction": "शिव ध्यान मंत्र",
+          "instructionEn": "Shiva dhyana mantra",
+          "mantra": {
+            "lines": ["ध्यायेन्नित्यं महेशं रजतगिरिनिभं चारुचन्द्रावतंसं। रत्नाकल्पोज्ज्वलाङ्गं परशुमृगवराभीतिहस्तं प्रसन्नम्॥", "पद्मासीनं समन्तात् स्तुतममरगणैर्व्याघ्रकृत्तिं वसानं। विश्वाद्यं विश्वबीजं निखिलभयहरं पञ्चवक्त्रं त्रिनेत्रम्॥", "अस्मिन् बिम्बे श्री-साम्ब-परमेश्वरं ध्यायामि।"],
+            "transliteration": ["Dhyayennityam mahesham rajatagirinibham charuchandravatamsam. Ratnakalpojjvalangam parashumrigavarabhitihastam prasannam.", "Padmasinam samantat stutamamaraganairvyaghrakrittim vasanam. Vishvadyam vishvabijam nikhilabhayaharam panchavaktram trinetram.", "Asmin bimbe Shri Samba Parameshwaram dhyayami."],
+            "meaning": "रजतगिरि जैसे, चन्द्रधारी, परशु-मृग धारण किए, व्याघ्राम्बरधारी, पञ्चमुख त्रिनेत्र महेश का ध्यान करें।",
+            "meaningEn": "Meditate on Shiva—moon-crested, holding axe and deer, tiger-skin clad, five-faced and three-eyed.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "avahan",
+          "type": "mantra",
+          "instruction": "शिव आवाहन",
+          "instructionEn": "Invoke Shiva",
+          "mantra": {
+            "lines": ["नमस्ते रुद्र मन्यव उतो त इषवे नमः। नमस्ते अस्तु धन्वने बाहुभ्यामुत ते नमः॥", "ॐ ह्रीं नमः शिवाय। सद्योजातं प्रपद्यामि। आवाहयामि।"],
+            "transliteration": ["Namaste rudra manyava uto te ishave namah. Namaste astu dhanvane bahubhyamuta te namah.", "Om Hreem Namah Shivaya. Sadyojatam prapadyami. Avahayami."],
+            "meaning": "हे रुद्र, आपको नमस्कार। शिव को आवाहन करता हूँ।",
+            "meaningEn": "Salutations to Rudra. I invoke Shiva.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        }
+      ],
+      "translations": null
+    },
+    {
+      "id": "shodashopachar",
+      "title": "षोडशोपचार",
+      "titleEn": "Sixteen Offerings",
+      "purpose": "सोलह उपचार",
+      "purposeEn": "Sixteen offerings",
+      "steps": [
+        {
+          "id": "op-1",
+          "type": "offering_sequence",
+          "instruction": "आसन, पाद्य, अर्घ्य, आचमनीय",
+          "instructionEn": "Asan, Padya, Arghya, Achamaniya",
+          "mantra": null,
+          "offerings": [
+            { "name": "आसन", "nameEn": "Asana", "what": "आसनं", "whatEn": "Seat", "shloka": null, "mantra": "ॐ ह्रीं नमः शिवाय। सद्योजाताय वै नमो नमः। आसनं समर्पयामि।" },
+            { "name": "पाद्य", "nameEn": "Padya", "what": "पाद्यं", "whatEn": "Water for feet", "shloka": ["या ते रुद्र शिवा तनूरघोराऽपापकाशिनी। तया नस्तनुवा शन्तमया गिरिशन्ताभिचाकशीहि॥"], "mantra": "ॐ ह्रीं नमः शिवाय। भवे भवे नाति भवे भवस्व माम्। पादयोः पाद्यं समर्पयामि।" },
+            { "name": "अर्घ्य", "nameEn": "Arghya", "what": "अर्घ्यं", "whatEn": "Arghya", "shloka": ["यामिषुं गिरिशन्त हस्ते बिभर्ष्यस्तवे। शिवां गिरित्र तां कुरु मा हिंसीः पुरुषं जगत्॥"], "mantra": "ॐ ह्रीं नमः शिवाय। भवोद्भवाय नमः। अर्घ्यं समर्पयामि।" },
+            { "name": "आचमनीय", "nameEn": "Achamaniya", "what": "आचमनीयं", "whatEn": "Water for sipping", "shloka": ["शिवेन वचसा त्वा गिरिशाच्छावदामसि। यथा नः सर्वमिज्जगदयक्ष्मं सुमना असत्॥"], "mantra": "ॐ ह्रीं नमः शिवाय। वामदेवाय नमः। आचमनीयं समर्पयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-2",
+          "type": "mantra",
+          "instruction": "पञ्चाक्षर मंत्र",
+          "instructionEn": "Panchakshara mantra",
+          "mantra": {
+            "lines": ["ॐ नमः शिवाय।"],
+            "transliteration": ["Om Namah Shivaya."],
+            "meaning": "शिव को नमस्कार। पञ्चाक्षर मंत्र।",
+            "meaningEn": "Salutations to Shiva. The five-syllable mantra.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-3",
+          "type": "offering_sequence",
+          "instruction": "स्नान, वस्त्र, गन्ध, अक्षत, पुष्प",
+          "instructionEn": "Snana, Vastra, Gandha, Akshata, Pushpa",
+          "mantra": null,
+          "offerings": [
+            { "name": "स्नान", "nameEn": "Snana", "what": "स्नानं", "whatEn": "Bath", "shloka": ["असौ यस्ताम्रो अरुण उत बभ्रुः सुमङ्गलः। ये चेमां रुद्रा अभितो दिक्षु श्रिताः सहस्रशोऽवैषां हेड ईमहे॥"], "mantra": "ॐ ह्रीं नमः शिवाय। श्रेष्ठाय नमः। स्नानं समर्पयामि।" },
+            { "name": "वस्त्र", "nameEn": "Vastra", "what": "वस्त्रं", "whatEn": "Cloth", "shloka": ["असौ योऽवसर्पति नीलग्रीवो विलोहितः। उतैनं गोपा अदृशन्नदृशन्नुदहार्यः॥"], "mantra": "ॐ ह्रीं नमः शिवाय। रुद्राय नमः। वस्त्रोत्तरीयं समर्पयामि।" },
+            { "name": "गन्ध", "nameEn": "Gandha", "what": "गन्धान्", "whatEn": "Sandalwood", "shloka": null, "mantra": "ॐ ह्रीं नमः शिवाय। कलविकरणाय नमः। गन्धान् धारयामि। अक्षतान् समर्पयामि।" },
+            { "name": "पुष्प", "nameEn": "Pushpa", "what": "पुष्पाणि", "whatEn": "Flowers", "shloka": ["अवतत्य धनुस्त्वं सहस्राक्ष शतेषुधे। निशीर्य शल्यानां मुखा शिवो नः सुमना भव॥"], "mantra": "ॐ ह्रीं नमः शिवाय। बलविकरणाय नमः। पुष्पैः पूजयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-4",
+          "type": "offering_sequence",
+          "instruction": "धूप, दीप, नैवेद्य, नीराजन",
+          "instructionEn": "Dhupa, Deepa, Naivedya, Aarti",
+          "mantra": null,
+          "offerings": [
+            { "name": "धूप", "nameEn": "Dhupa", "what": "धूपम्", "whatEn": "Incense", "shloka": ["विज्यं धनुः कपर्दिनो विशल्यो बाणवाँ उत। अनेशन्नस्येषव आभुरस्य निषङ्गथिः॥"], "mantra": "ॐ ह्रीं नमः शिवाय। बलाय नमः। धूपमाघ्रापयामि।" },
+            { "name": "दीप", "nameEn": "Deepa", "what": "दीपं", "whatEn": "Lamp", "shloka": ["या ते हेतिर्मीढुष्टम हस्ते बभूव ते धनुः। तयाऽस्मान् विश्वतस्त्वमयक्ष्मया परिब्भुज॥"], "mantra": "ॐ ह्रीं नमः शिवाय। बलप्रमथनाय नमः। अलङ्कारदीपं सन्दर्शयामि।" },
+            { "name": "नैवेद्य", "nameEn": "Naivedya", "what": "नैवेद्यं", "whatEn": "Food offering", "shloka": ["नमस्ते अस्त्वायुधायानातताय धृष्णवे। उभाभ्यामुत ते नमो बाहुभ्यां तव धन्वने॥"], "mantra": "ॐ ह्रीं नमः शिवाय। सर्वभूतदमनाय नमः। नैवेद्यं निवेदयामि।" },
+            { "name": "नीराजन", "nameEn": "Nirajana", "what": "कर्पूर-नीराजनं", "whatEn": "Camphor aarti", "shloka": ["नमस्ते अस्तु भगवन् विश्वेश्वराय महादेवाय त्र्यम्बकाय त्रिपुरान्तकाय त्रिकाग्निकालाय कालाग्निरुद्राय नीलकण्ठाय मृत्युञ्जयाय सर्वेश्वराय सदाशिवाय श्रीमन्महादेवाय नमः॥"], "mantra": "ॐ ह्रीं नमः शिवाय। कर्पूरनीराजनं दर्शयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-5",
+          "type": "mantra",
+          "instruction": "द्वादश नाम एवं नमस्कार",
+          "instructionEn": "Twelve names and obeisance",
+          "mantra": {
+            "lines": ["शिवाय नमः। रुद्राय नमः। पशुपतये नमः। नीलकण्ठाय नमः। महेश्वराय नमः। हरिकेशाय नमः। विरूपाक्षाय नमः। पिनाकिने नमः। त्रिपुरान्तकाय नमः। शम्भवे नमः। शूलिने नमः। महादेवाय नमः।", "ॐ ह्रीं नमः शिवाय। मन्त्रपुष्पाञ्जलिं समर्पयामि।"],
+            "transliteration": ["Shivaya namah. Rudraya namah. Pashupataye namah. Nilakanthaya namah. Maheshwaraya namah. Harikeshaya namah. Virupakshaya namah. Pinakine namah. Tripurantakaya namah. Shambhave namah. Shuline namah. Mahadevaya namah.", "Om Hreem Namah Shivaya. Mantra pushpanjalim samarpayami."],
+            "meaning": "शिव के बारह नामों से नमस्कार और पुष्पाञ्जलि।",
+            "meaningEn": "Obeisance with Shiva's twelve names and flower offering.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        }
+      ],
+      "translations": null
+    },
+    {
+      "id": "visarjan",
+      "title": "विसर्जन",
+      "titleEn": "Farewell",
+      "purpose": "विसर्जन",
+      "purposeEn": "Farewell",
+      "steps": [
+        {
+          "id": "visarjan-1",
+          "type": "mantra",
+          "instruction": "प्रार्थना एवं विसर्जन",
+          "instructionEn": "Prayer and farewell",
+          "mantra": {
+            "lines": ["मन्त्रहीनं क्रियाहीनं भक्तिहीनं महेश्वर। यत्कृतं तु मया देव परिपूर्णं तदस्तु ते॥", "कायेन वाचा मनसेन्द्रियैर्वा। बुद्ध्याऽऽत्मना वा प्रकृतेः स्वभावात्। करोमि यद्यत् सकलं परस्मै नारायणायेति समर्पयामि॥", "ॐ तत्सद्ब्रह्मार्पणमस्तु।"],
+            "transliteration": ["Mantrahinam kriyahinam bhaktihinam maheshvara. Yatkritam tu maya deva paripurnam tadastu te.", "Kayena vacha manasendriyairva. Buddhyatmana va prakriteh svabhavat. Karomi yadyat sakalam parasmai Narayanayeti samarpayami.", "Om tatsad brahmarpanamastu."],
+            "meaning": "हे महेश्वर, मेरी अधूरी पूजा पूर्ण स्वीकार करें। सब कुछ नारायण को अर्पण।",
+            "meaningEn": "O Shiva, accept my imperfect worship as complete. All offered to the Supreme.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        }
+      ],
+      "translations": null
+    }
+  ],
+  "metadata": {
+    "source": "Based on stotrasamhita/puja-vidhanam (Shivaratri Puja). Sadhana app.",
+    "version": "1.0",
+    "lastUpdated": "2025-02-09",
+    "includesVedicMantras": true,
+    "noteOnVedicMantras": "Some verses are from Rudram (Yajurveda)."
+  },
+  "translations": null
+}
