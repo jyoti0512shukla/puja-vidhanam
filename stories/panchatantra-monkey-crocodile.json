@@ -8,7 +8,11 @@
   "moral": "True friends never betray each other. Quick thinking can save you from danger.",
   "moralHi": "सच्चे मित्र कभी विश्वासघात नहीं करते। सूझबूझ से हर खतरे से बचा जा सकता है।",
   "coverImage": "monkey-crocodile",
-  "tags": ["friendship", "cleverness", "animals"],
+  "tags": [
+    "friendship",
+    "cleverness",
+    "animals"
+  ],
   "sections": [
     {
       "heading": null,
