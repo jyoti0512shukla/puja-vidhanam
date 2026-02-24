@@ -20,7 +20,9 @@
     { "item": "अक्षत", "itemEn": "Akshata (rice)", "essential": true },
     { "item": "जल", "itemEn": "Water", "essential": true },
     { "item": "नैवेद्य", "itemEn": "Naivedya (food offering)", "essential": false },
-    { "item": "कपूर", "itemEn": "Camphor", "essential": false }
+    { "item": "कपूर", "itemEn": "Camphor", "essential": false },
+    { "item": "पंचामृत", "itemEn": "Panchamrita (milk, curd, ghee, honey, sugar)", "essential": true },
+    { "item": "पान", "itemEn": "Betel leaf", "essential": false }
   ],
   "sections": [
     {
