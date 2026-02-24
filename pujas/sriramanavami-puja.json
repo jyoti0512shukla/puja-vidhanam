@@ -22,7 +22,8 @@
     { "item": "नैवेद्य", "itemEn": "Naivedya (food offering)", "essential": false },
     { "item": "कपूर", "itemEn": "Camphor", "essential": false },
     { "item": "पंचामृत", "itemEn": "Panchamrita (milk, curd, ghee, honey, sugar)", "essential": true },
-    { "item": "पान", "itemEn": "Betel leaf", "essential": false }
+    { "item": "पान", "itemEn": "Betel leaf", "essential": false },
+    { "item": "नारियल", "itemEn": "Coconut", "essential": true }
   ],
   "sections": [
     {
